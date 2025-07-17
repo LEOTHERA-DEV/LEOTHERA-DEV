@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hullooo, World!
+## ✨I'm LEOTHERA✨
 
-<!--
-**LEOTHERA-DEV/LEOTHERA-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Game Developer and **Pro**grammer from 🇿🇦**South Africa**.
+I'm currently working on quite a bunch of passion-driven projects, with some available here to see their continuous growth.
 
-Here are some ideas to get you started:
+Some of these projects include:
+  - A toolkit for Game Development (⛰️Leonis)
+  - A few games  (☕Axolus Cafe, ⚔️Vihltara)
+  - A mobile application (🐾Pawtal)
+  - A unique 'operating system' (🌍TerraOS)
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stuff I'm currently learning:
+💻Assembly | 🥔Developing for very low-end hardware[^1] | 🤖Custom LLMs using Ollama
+
+### Skills:
+> 🟡 = Not very experienced | 🟢 = Experienced | 🟣 = Experienced and Preferred
+- 🎮 Game Development:
+  - 🟡 6502 Assembly
+  - 🟣 Godot
+  - 🟢 Python
+- 📱 Mobile App Development:
+  - 🟣 Flutter and Dart
+  - 🟡 Kivy
+- 💻 Programming:
+  - 🟡 Assembly
+  - 🟢 C#
+  - 🟣 GdScript
+  - 🟣 Java
+  - 🟢 JavaScript
+  - 🟣 Python
+- 🖱️ Software Development:
+  - 🟢 Backend Systems
+  - 🟢 Frontend and UI/UX Design 
+
+[^1]: Modern solutions for computer systems with less than 6GB RAM, for example.
