@@ -12,7 +12,6 @@ I'm currently working on quite a bunch of passion-driven projects, with some ava
 - 🟣   Leonis Toolkit
 - 🟣   Pawtal
 - 🟣🟪 TerraOS
-___
 
 ### Stuff I'm currently learning:
 💻Assembly | 🥔Developing for very low-end hardware[^1] | 🤖Custom LLMs using Ollama
