@@ -4,11 +4,14 @@
 I'm a Game Developer and **Pro**grammer from 🇿🇦**South Africa**.
 I'm currently working on quite a bunch of passion-driven projects, with some available here to see their continuous growth.
 
-Some of these projects include:
-  - A toolkit for Game Development (⛰️Leonis)
-  - A few games  (☕Axolus Cafe, ⚔️Vihltara)
-  - A mobile application (🐾Pawtal)
-  - A unique 'operating system' (🌍TerraOS)
+### Some of my Projects:
+> 🟣 = Program/Software | 🟪 = Game
+- 🟪   AXOLOTL 40
+- 🟪   Axolus Cafe
+- 🟣   Espee.ai
+- 🟣   Leonis Toolkit
+- 🟣   Pawtal
+- 🟣🟪 TerraOS
 ___
 
 ### Stuff I'm currently learning:
