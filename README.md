@@ -1,6 +1,6 @@
 # Hullooo, World!
 ## ✨I'm LEOTHERA✨
-[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#) [![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)](#) [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#) [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#) [![Nobara Linux](https://img.shields.io/badge/Nobara%20Linux-000?logo=nobaralinux&logoColor=fff)](#) [![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#)  	 
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/leothera-dev.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/1374997921375846402) [![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://leothera.itch.io) 	[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff)](#) [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:leothera.dev@proton.me) 
 
 I'm a Game Developer and **Pro**grammer from 🇿🇦**South Africa**.
 I'm currently working on quite a bunch of passion-driven projects, with some available here to see their continuous growth.
@@ -13,6 +13,7 @@ I'm currently working on quite a bunch of passion-driven projects, with some ava
 - 🟣  Leonis Toolkit
 - 🟣  Pawtal
 - 🟣  TerraOS
+- 🟣  Vihltara
 
 ### Stuff I'm currently learning:
 💻Assembly | 🥔Developing for very low-end hardware[^1] | 🤖Custom LLMs using Ollama
