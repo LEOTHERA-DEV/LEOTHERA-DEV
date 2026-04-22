@@ -6,13 +6,13 @@ I'm currently working on quite a bunch of passion-driven projects, with some ava
 ### Some of my Projects:
 > 🟣 = Program/Software | 🟪 = Game
 - 🟪  AXOLOTL 40
-- 🟪  Akori
-- 🟣  Leonis Toolkit
+- 🟪  Akorus
+- 🟣  LTRS Toolkit
 - 🟣  Pawtal
 - 🟣  Vihltara
 
 ### Stuff I'm currently learning:
-🎨 Graphics Programming | 🧊 ThreeJS
+🎨 Graphics Programming | 💻 OS Development
 
 ### Tools:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
